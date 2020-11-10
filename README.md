@@ -20,7 +20,15 @@ Masih proses pengerjaan. Tolong dikoreksi tanggal 17 November 2020 (Deadline Par
 vending-machine/
 ├── bin/                            # Berisi Java bytecode (.class)
 ├── src/                            # Berisi source code (.java)
-    ├── VendingMachineMain.java
+    ├── vendingmachine
+        ├── Admin.java 
+        ├── Login.java
+        ├── Produk.java
+        ├── User.java
+        ├── VendingMachineMain.java
+├── userinfo/
+    ├── admin.txt
+    ├── user.txt
 ```
 
 # Cara install
