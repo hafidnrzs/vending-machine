@@ -1,7 +1,7 @@
 # Vending Machine
 Replacement Test Part 4: Modular Programming
 
-Masih proses pengerjaan. Tolong dikoreksi tanggal 17 November 2020 (Deadline Part 4)
+Sedang dalam proses pengerjaan
 
 # Spesifikasi
 
